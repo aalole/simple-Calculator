@@ -14,6 +14,7 @@ const insertNum = (num) => {
     textView.value = exp;
     number = true;
   }
+  
   if(operator) decimal = false;
   SR('a');
 };
